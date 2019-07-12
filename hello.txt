@@ -3,4 +3,3 @@ BBB
 CCC
 stash test
 临时保存
-new stash save 3
