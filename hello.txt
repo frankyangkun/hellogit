@@ -2,4 +2,5 @@ AAA
 BBB
 CCC
 stash test
-临时保存--第二次
+临时保存
+new stash save 3
